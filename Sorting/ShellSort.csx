@@ -1,6 +1,7 @@
 // Time Complexity  ~  N^(3/2)
 // http://algs4.cs.princeton.edu/21elementary/
 // This is non trivial ...
+// Linearthmic Time Complexity for already sorted array.
 
 
 public class Shell
